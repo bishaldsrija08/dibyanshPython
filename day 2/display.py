@@ -1,0 +1,3 @@
+# Output- The process of displaying the data on the screen. It is the final step in the data processing pipeline, where the results of the analysis are presented to the user in a visual format. This can include charts, graphs, tables, or any other form of visual representation that helps to communicate the insights derived from the data. The goal of output is to make it easy for users to understand and interpret the results of their data analysis, allowing them to make informed decisions based on the information presented.
+
+print("I am learning Python.")
