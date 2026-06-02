@@ -1,1 +1,4 @@
 # WAP to subtract two numbers. (HW)
+num1 = 5
+num2=3
+print(num1-num2)

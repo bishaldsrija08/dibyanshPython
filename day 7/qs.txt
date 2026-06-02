@@ -1,0 +1,16 @@
+HW
+
+Question 1: Is it Raining?
+If it's raining, we need an umbrella! Complete the code so it prints "Take an umbrella!" if is_raining is True, and "No umbrella needed." if is_raining is False.
+
+Question 2: Big or Small Number?
+Write code that checks if a number is greater than 10. If it is, print "Big number!". Otherwise, print "Small number."
+
+Question 3: What's for Breakfast?
+If the day is "Sunday", print "Pancakes!". Otherwise, print "Cereal."
+
+Question 4: Is the Light Green?
+If traffic_light is "green", print "Go!". If it's anything else, print "Stop!"
+
+Question 5: Can you ride the roller coaster?
+You need to be at least 120 cm tall to ride. If height is 120 or more, print "You can ride!". Otherwise, print "Too short, sorry."
