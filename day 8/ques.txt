@@ -1,0 +1,14 @@
+Question 6: Is it a sunny day?
+If is_sunny is True, print "Let's go play outside!". Otherwise, print "Let's read a book inside."
+
+Question 7: Even or Odd?
+Write code that checks if a number is even or odd. (Hint: Use the modulo operator %! An even number has no remainder when divided by 2).
+
+Question 8: Do we have enough cookies?
+If cookies_left is greater than 0, print "Yay, cookies!". Otherwise, print "Oh no, no more cookies."
+
+Question 9: What's your favorite color?
+If favorite_color is "blue", print "Blue is a great color!". For any other color, print "That's a nice color too!".
+
+Question 10: Is it bedtime?
+If current_hour is 20 or later (meaning 8 PM or later), print "Time for bed!". Otherwise, print "Still time to play!".
