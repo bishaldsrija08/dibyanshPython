@@ -1,0 +1,11 @@
+
+If the temperature is above 25, print "It's hot!". If it's between 15 and 25 (inclusive), print "It's nice outside.". Otherwise, print "It's cold!".
+
+If animal is "cat", print "Meow!". If it's "dog", print "Woof!". If it's "cow", print "Moo!". Otherwise, print "I don't know that animal sound."
+
+
+If score is 90 or more, print "A - Excellent!". If it's 80 or more (but less than 90), print "B - Good job!". If it's 70 or more (but less than 80), print "C - You passed!". Otherwise, print "D - Keep trying!"
+
+If number is greater than 0, print "Positive!". If number is less than 0, print "Negative!". Otherwise (if it's 0), print "Zero!".
+
+If age is less than 5, print "You are a toddler.". If age is between 5 and 12 (inclusive), print "You are a child.". If age is between 13 and 17 (inclusive), print "You are a teenager.". Otherwise, print "You are an adult."
